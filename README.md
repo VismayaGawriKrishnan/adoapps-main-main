@@ -4,7 +4,7 @@
 
 VioraAI is a context-aware, multi-domain AI assistant platform powered by **Google Gemini API** — built for education, business, and everyday productivity.
 
-🔗 **Live Demo:** [vioraai-two.vercel.app/welcome](https://vioraai-two.vercel.app/welcome)
+🔗 **Live Demo:** [https://viorafitness.vercel.app/
 
 ---
 
