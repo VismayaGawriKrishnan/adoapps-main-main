@@ -79,7 +79,7 @@ VioraAI closes this gap with a fluid, intelligent assistant that:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/AbhiramJayaraj/adoapps-main-main.git
+git clone [https://github.com/AbhiramJayaraj/adoapps-main-main.git](https://github.com/VismayaGawriKrishnan/adoapps-main-main.git)
 cd adoapps-main-main
 
 # 2. Install dependencies
