@@ -45,6 +45,7 @@ VioraAI closes this gap with a fluid, intelligent assistant that:
 - **Google Gemini API** — core language model
 - **Gemini Flash / Pro** — optimised for fast multi-turn dialogue
 - **Google AI Studio** — prompt engineering and API key management
+- google stich - gor designing ui and logo
 
 ### How AI Is Integrated
 1. **Conversational Engine** — Full chat history is passed to Gemini on every request, enabling coherent multi-turn understanding
